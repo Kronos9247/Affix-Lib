@@ -18,13 +18,13 @@
 */
 
 $(document).ready(function() {
-  $(".affix").css({
+  /*$(".affix").css({ //idk this isn't really working! So i decided to add the css file 
 	  "position": "fixed",
 	  "top": "0",
 	  "right": "0",
 	  "left": "0",
 	  "z-index": "1030"
-  });
+  });*/
   
   var toggleAffix = function(ele, scroll, wrapper) {
     var height = ele.outerHeight(),
