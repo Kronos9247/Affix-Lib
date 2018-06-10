@@ -1,2 +1,2 @@
 # Affix-Lib
-This is a simple reimplementation of the affix component in Bootstrap
+This "Library" implements affix like in bootstrap3. Unfortunately they removed it from bootstrap4!
