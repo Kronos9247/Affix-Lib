@@ -3,8 +3,9 @@ This "Library" implements affix like in bootstrap3. Unfortunately they removed i
 
 ## How to apply it!
 ```html
-<html>
+<html> 
   <head>
+    <!-- Note: JQuery & Bootstrap4 need to be included!!! -->
     <script src="affix-lib.js"></script>
   </head>
   
