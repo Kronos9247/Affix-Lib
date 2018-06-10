@@ -6,6 +6,7 @@ This "Library" implements affix like in bootstrap3. Unfortunately they removed i
 <html> 
   <head>
     <!-- Note: JQuery & Bootstrap4 need to be included!!! -->
+    <link src="affix-lib.css" rel="stylesheet"></link>
     <script src="affix-lib.js"></script>
   </head>
   
